@@ -54,3 +54,6 @@ p.then(console.log).then(()=>{
 as promises alem de servirem pra tratar das falhas ou erros eles tambem resolvem o problema do callback hell, usando o then como no execicio
 
 # async/await
+
+para um codigo mais limpo 
+tratamento de erro com ```try``` ```cash```

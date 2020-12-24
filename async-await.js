@@ -21,12 +21,19 @@ const addBand = (name)=>{
 		setTimeout(()=>{
 			bands.push({name});
 			//a gente chama resolve pra declarar que a Promise ja foi resolvida  
-			resolve();
+			resolve();												// gera resutado
+			//reject('unable to add my nigga')// gera erro
 		},2000)
  	}
  return new Promise(callback);//o funcao que chama se torna uma promise, nesse caso addBand
 }
-addBand('Queen')
-	.then(()=> {return addBand('AC/DC')})
-	.then(getBands)
-	.finally(()=>console.log('All bands added'));
+ const runAsyncMethods = async ()=>{{}
+	  try{
+			await addBand('Queen');	//espera ser addBand ser totalmente executada
+	  	await addBand('AC/DC');	//espera ser addBand ser totalmente executada
+	 		getBands()														// executa getBands que afixa as bandas em lista ul 
+		} catch(error){
+			console.log(error);
+		}
+ }
+ runAsyncMethods(); 											//executa o codigo 
