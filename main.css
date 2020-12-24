@@ -1,0 +1,31 @@
+body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #E9ECEE; 
+	height: 100vh;
+}
+body p{
+	position: absolute;
+	left: 5px;
+	top: 5px;
+}
+a, li{
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+	text-transform: uppercase;
+		font-family: Arial, Helvetica, sans-serif;
+		color: #e4cd00;
+}
+ul{
+	list-style: none;
+}
+li{
+	background-color: #ECA836;
+	padding:7vh 20vw 7vh 20vw;
+	margin: 10px;
+border-radius: 1.5vh;
+}
