@@ -22,6 +22,10 @@ try catch throw finally
 
 ```finally``` é um metodo do obj Promise que independente do resultado (error ou sucess) ele é executado.  
 
+**OBJETIVOS**
+
+criar um programa que adiciona bandas de forma assincrona usando callback promise e async await  
+
 # Callbacks
 
 o setTimeout(Callback, delay ,'' ) é uma funçao nativa do javaSctipt ela usa Callback
