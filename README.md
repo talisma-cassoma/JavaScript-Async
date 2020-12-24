@@ -1,12 +1,14 @@
 # JavaScript-Async
 alguns apontamentos do que estou estudando sobre o assunto
 
-***curiosidades***
+**Curiosidades**
 
 <a href="https://www.w3schools.com/jsref/jsref_push.asp">.puch()</a> ele adiciona novos items no fim dum array, e retorna a nova length.
 
 ```resolve``` e ```reject``` sao metodos do obejeto Promise,
+
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Promise/reject">Promise.reject()</a>
+
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Promise/resolve">Promise.resolve()</a> 
 
 ```then``` é um metodo do obj Promise que envia o resultado quando tudo está certo, isto é resolve 
