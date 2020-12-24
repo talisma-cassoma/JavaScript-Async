@@ -3,7 +3,7 @@ alguns apontamentos do que estou estudando sobre o assunto
 
 ***curiosidades***
 
-<a href="https://www.w3schools.com/jsref/jsref_push.asp">.puch()</a>
+<a href="https://www.w3schools.com/jsref/jsref_push.asp">.puch()</a> ele adiciona novos items no fim dum array, e retorna a nova length.
 
 ```resolve``` e ```reject``` sao metodos do obejeto Promise,
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Promise/reject">Promise.reject()</a>
