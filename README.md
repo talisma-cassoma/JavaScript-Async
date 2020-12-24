@@ -30,7 +30,8 @@ o setTimeout(Callback, delay ,'' ) é uma funçao nativa do javaSctipt ela usa C
 
 # promises 
 
-promises é um objeto 
+promises é um objeto ele serve para tratamento de erro e sincronismo
+
 sua estrura é mais ou menos:
 
 ```
