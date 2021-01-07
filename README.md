@@ -62,3 +62,4 @@ as promises alem de servirem pra tratar das falhas ou erros eles tambem resolvem
 para um codigo mais limpo 
 
 tratamento de erro com ```try``` ```cash```
+ve o resultado <a href="https://javascript-async.talismamanuel.repl.co">aqui</a>
