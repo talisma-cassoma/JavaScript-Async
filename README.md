@@ -37,7 +37,7 @@ o setTimeout(Callback, delay ,'' ) é uma funçao nativa do javaSctipt ela usa C
 promises é um objeto 
 sua estrura é mais ou menos:
 
-```
+```js
 const callback = (resolve, reject)=>{
 const error = false; //tenta error = true e result = false  
 const result = true;
