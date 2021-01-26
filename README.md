@@ -61,7 +61,7 @@ as promises alem de servirem pra tratar das falhas ou erros eles tambem resolvem
 
 # async/await
 
-é sobretudo usada para um codigo mais limpo 
+<a href="https://github.com/talisma-cassoma/JavaScript-Async/blob/main/async-await.js">é sobretudo usada para um codigo mais limpo</a> 
 
 tratamento de erro com ```try``` ```cash```
 
