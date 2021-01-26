@@ -26,7 +26,7 @@ try catch throw finally
 
 criar um programa que adiciona bandas de forma assincrona usando callback promise e async await  
 
-# <a href="https://github.com/talisma-cassoma/JavaScript-Async/blob/main/async-await.js">Callbacks</a>
+# <a href="https://github.com/talisma-cassoma/JavaScript-Async/blob/main/callbacks.js">Callbacks</a>
 
 é uma função tipicamente passada como argumento de outra função e/ou chamada quando um evento for acontecido, ou quando uma parte de código receber uma resposta de que estava à espera.
 
@@ -34,7 +34,7 @@ o setTimeout(Callback, delay ,'' ) é uma função nativa do javaSctipt ela usa 
 
 	* desvantagem: Callback hell
 
-# <a href="https://github.com/talisma-cassoma/JavaScript-Async/blob/main/async-await.js">promises</a> 
+# <a href="https://github.com/talisma-cassoma/JavaScript-Async/blob/main/promises.js">promises</a> 
 
 promises é um objeto 
 sua estrura é mais ou menos assim:
