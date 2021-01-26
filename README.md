@@ -61,7 +61,7 @@ as promises alem de servirem pra tratar das falhas ou erros eles tambem resolvem
 
 # async/await
 
-para um codigo mais limpo 
+é sobretudo usada para um codigo mais limpo 
 
 tratamento de erro com ```try``` ```cash```
 
