@@ -51,7 +51,7 @@ const result = true;
 };
 p = new Promise(callback);
 
-p.then(console.log).then(()=>{
+p.then(console.log('ola! tudo bem')).then(()=>{
 	console.log('esse é o segundo then')
 }).catch(console.error).finally(()=>console.log('!done!'))
 ```
